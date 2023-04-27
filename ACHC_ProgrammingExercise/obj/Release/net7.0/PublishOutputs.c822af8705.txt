@@ -1,0 +1,15 @@
+C:\Users\ichar\ACHC_PromgrammingExercise\ACHC_ProgrammingExercise\bin\Release\net7.0\publish\ACHC_ProgrammingExercise.exe
+C:\Users\ichar\ACHC_PromgrammingExercise\ACHC_ProgrammingExercise\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\ichar\ACHC_PromgrammingExercise\ACHC_ProgrammingExercise\bin\Release\net7.0\publish\appsettings.json
+C:\Users\ichar\ACHC_PromgrammingExercise\ACHC_ProgrammingExercise\bin\Release\net7.0\publish\my-react-app\build\asset-manifest.json
+C:\Users\ichar\ACHC_PromgrammingExercise\ACHC_ProgrammingExercise\bin\Release\net7.0\publish\my-react-app\build\manifest.json
+C:\Users\ichar\ACHC_PromgrammingExercise\ACHC_ProgrammingExercise\bin\Release\net7.0\publish\my-react-app\package-lock.json
+C:\Users\ichar\ACHC_PromgrammingExercise\ACHC_ProgrammingExercise\bin\Release\net7.0\publish\my-react-app\package.json
+C:\Users\ichar\ACHC_PromgrammingExercise\ACHC_ProgrammingExercise\bin\Release\net7.0\publish\my-react-app\public\manifest.json
+C:\Users\ichar\ACHC_PromgrammingExercise\ACHC_ProgrammingExercise\bin\Release\net7.0\publish\ACHC_ProgrammingExercise.dll
+C:\Users\ichar\ACHC_PromgrammingExercise\ACHC_ProgrammingExercise\bin\Release\net7.0\publish\ACHC_ProgrammingExercise.deps.json
+C:\Users\ichar\ACHC_PromgrammingExercise\ACHC_ProgrammingExercise\bin\Release\net7.0\publish\ACHC_ProgrammingExercise.runtimeconfig.json
+C:\Users\ichar\ACHC_PromgrammingExercise\ACHC_ProgrammingExercise\bin\Release\net7.0\publish\ACHC_ProgrammingExercise.pdb
+C:\Users\ichar\ACHC_PromgrammingExercise\ACHC_ProgrammingExercise\bin\Release\net7.0\publish\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\ichar\ACHC_PromgrammingExercise\ACHC_ProgrammingExercise\bin\Release\net7.0\publish\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\ichar\ACHC_PromgrammingExercise\ACHC_ProgrammingExercise\bin\Release\net7.0\publish\Newtonsoft.Json.dll
