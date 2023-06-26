@@ -1,0 +1,141 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+body{
+    padding: 0;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+.weather-textboxes {
+    display: flex;
+    flex-direction: row;
+    width: 35%;
+    height: 35%;
+   
+    justify-content: center;
+}
+
+.input-params {
+ 
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.weather-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.input-groups {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   margin: 5%;
+}
+
+label {
+    margin-right: 3%;
+}
+
+.get-temp-btn {
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 4%;
+    height: 4%;
+    border-radius: 15%;
+    cursor: pointer
+}
+
+
+@media screen and (min-width: 768px) {
+    .weather-section {
+        flex-direction: column;
+    }
+
+    .input-params {
+        width: 100%;
+        height: 25%;
+        justify-content: center;
+        align-items: center;
+      
+    }
+
+    .weather-textboxes {
+        width: 35%;
+        height: 35%;
+       
+    }
+
+    .get-temp-btn {
+        width: 8%;
+        height: 13%;
+        font-size: 1.2rem;
+    }
+}
+
+
+@media screen and (min-width: 1024px) {
+    .weather-section {
+       
+    }
+
+    .weather-textboxes {
+        width: 20%;
+        height: 35%;
+    }
+
+    .get-temp-btn {
+        width: 8%;
+        height: 13%;
+        font-size: 1.2rem;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .weather-section {
+        flex-direction: column;
+    }
+
+    .weather-textboxes {
+        width: 50%;
+        height: auto;
+        margin-bottom: 2%;
+    }
+
+    .input-groups {
+        flex-direction: column;
+        padding: 5%;
+    }
+
+    .get-temp-btn {
+        width: 20%;
+        height: auto;
+        margin-top: 2%;
+    }
+
+    .input-params {
+        width: 100%;
+        height: 25%;
+        justify-content: center;
+        align-items: center;
+    }
+}

@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\ACHC_ProgrammingExercise.props" />
-</Project>
